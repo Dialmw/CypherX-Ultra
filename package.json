@@ -44,7 +44,6 @@
          "yt-search": "^2.12.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.19",
-    "node-gyp": "^10.2.0"
+    "nodemon": "^2.0.19"
   }
 }
